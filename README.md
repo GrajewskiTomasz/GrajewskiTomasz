@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrajewskiTomasz
 - 👀 I’m interested in Oracle APEX and PL/SQL
-- 🌱 I’m currently learning APEX and PL/SQL
+- 🌱 I’m currently learning Oracle APEX and PL/SQL
 - 💞️ I’m looking to collaborate on APEX apps
 - 📫 How to reach me: via LinkedIn
 
